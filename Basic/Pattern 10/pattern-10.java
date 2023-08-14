@@ -38,6 +38,6 @@ class Solution {
           // next row and give a line break otherwise all stars
           // would get printed in 1 line.
           System.out.println();
-        }
+      }
     }
 }
